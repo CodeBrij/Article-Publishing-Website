@@ -20,7 +20,13 @@ This application allows users to view detailed articles with a professional layo
 - **Database**: MongoDB (for article storage)
 
 ---
+## Implementation
+![image](https://github.com/user-attachments/assets/52442383-a477-483c-9b5a-64137a88dca0)
+![image](https://github.com/user-attachments/assets/9eb9e0a3-f953-4fe9-9528-5293b0dcfba2)
+![image](https://github.com/user-attachments/assets/e1c9a303-7a61-4bfe-969d-48c470111369)
+![image](https://github.com/user-attachments/assets/0af7a8a3-52d4-4b85-b6b1-86ff62a8010d)
 
+---
 ## Prerequisites
 
 Ensure you have the following installed:
