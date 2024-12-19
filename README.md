@@ -45,3 +45,25 @@ Ensure you have the following installed:
    ```bash
    git clone <repository_url>
    cd backend
+
+2. Install the required dependencies.
+   ```bash
+   npm install
+   
+3. Start the server.
+   ```bash
+   node index.js
+
+### Frontend Setup
+
+1. Navigate to the frontend directory.
+   ```bash
+   cd frontend
+
+2. Install the required dependencies.
+   ```bash
+   npm install
+   
+3. Start the server.
+   ```bash
+   npm run dev
